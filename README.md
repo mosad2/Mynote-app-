@@ -27,4 +27,7 @@ docker run -d -p 8000:8000 notes-app:latest
 Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
+
 `sudo apt install nginx`
+
+![vvvv](https://user-images.githubusercontent.com/63494835/228964395-7f0958b9-f24a-42ea-a64f-1b6d51b91f79.png)
