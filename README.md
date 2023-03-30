@@ -30,4 +30,4 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt install nginx`
 
-![mmmm](https://user-images.githubusercontent.com/63494835/228964547-c217a2bf-2a98-4e5f-8b28-e23c0d3aada5.png)
+![mmmm](https://user-images.githubusercontent.com/63494835/228964675-66ce9d11-0f0c-48ad-9de2-9402f54f111a.png)
